@@ -1,0 +1,210 @@
+newmtl ArbustoPeach:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd grass3_2.png
+Ni 1.00
+newmtl Escenario:conc_wall_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd concwall_32.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Escenario:gake_00_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd mc_gake.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Escenario:grass_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd mc_grass.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Escenario:mc_bridge_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd mc_bridge.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Escenario:mc_fence_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd mc_fence.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Escenario:mc_flow_a_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd mc_flow_a.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Escenario:mc_flow_b_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd mc_flow_b.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Escenario:mc_kakine00_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd mc_kakine00.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Escenario:mc_kakine01_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd mc_kakine01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Escenario:mc_road_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd mc_road.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Escenario:mc_sand_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd mc_sand.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Escenario:mc_sand_d_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd mc_sand_d.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Escenario:mc_til_str_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd mc_til_str.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Escenario:mc_tile00_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd mc_til00.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Escenario:renga_g_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd renga_grass.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Escenario:renga_sk_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd renga_shik00.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Escenario:tri_tile_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd mc_tritile.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Escenario:water_mat_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd water.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Escenario:yama_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd mc_yama.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl fireflower:fireflower
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd fireflower.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl flower02:flower
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd gs_flower_nice_c.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 225.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Arbusto.png
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd flower02_good_c.png
+Ni 1.00
