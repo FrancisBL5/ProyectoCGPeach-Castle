@@ -1,0 +1,25 @@
+newmtl Goku1:Body
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Goku.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl Goku1:Head
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Goku.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl _0_0_nodeFBXASC046001SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd body_cld_lod.png
+Ni 1.00
