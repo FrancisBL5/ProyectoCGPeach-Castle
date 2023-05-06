@@ -1,4 +1,4 @@
-# Blender 3.5.0 MTL File: 'grim.blend'
+# Blender 3.5.1 MTL File: 'None'
 # www.blender.org
 
 newmtl Cl
@@ -12,16 +12,6 @@ illum 1
 map_Kd GrimBody.png
 
 newmtl Leftleg
-Ns 96.078453
-Ka 1.000000 1.000000 1.000000
-Ks 0.000000 0.000000 0.000000
-Ke 0.000000 0.000000 0.000000
-Ni 1.000000
-d 1.000000
-illum 1
-map_Kd GrimBody.png
-
-newmtl Neck
 Ns 96.078453
 Ka 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
