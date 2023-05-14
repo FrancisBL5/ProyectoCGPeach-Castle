@@ -5,5 +5,6 @@ Ka 1.00 1.00 1.00
 Tf 1.00 1.00 1.00
 map_Kd yellow.png
 Ni 1.45
-Ks 0.50 0.50 0.50
+Ks 0.00 0.00 0.00
+map_Ks specular_coin.png
 Ns 225.00
