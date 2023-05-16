@@ -21,6 +21,8 @@ public:
 	void setCameraUp(glm::vec3 vectorUp);
 	glm::mat4 calculateViewMatrix();
 
+	glm::mat4 ConfIsometric(glm::mat4 model);
+
 	bool getIsometric() { return isometric; }
 	GLfloat getZoom() { return zoom; }
 
@@ -28,14 +30,16 @@ public:
 
 private:
 	glm::vec3 position;
-	glm::vec3 iso_position;
+	glm::vec3 iso_position = glm::vec3(-1.0f, 0.0f, 1.0f);
 	glm::vec3 front;
 	glm::vec3 up;
 	glm::vec3 right;
-	GLfloat iso_right;
-	GLfloat iso_up;
+	GLfloat iso_right = 0.0f;
+	GLfloat iso_left;
+	GLfloat iso_up = 0.0f;
+	GLfloat iso_down;
 	glm::vec3 worldUp;
-	GLfloat zoom = 15.0f;
+	GLfloat zoom = 16.0f;
 
 	GLfloat yaw;
 	GLfloat pitch;
