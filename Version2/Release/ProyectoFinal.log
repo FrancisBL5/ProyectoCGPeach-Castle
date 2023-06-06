@@ -1,0 +1,143 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(500,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  MainPrueba.cpp
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\modelAnim.h(104,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\modelAnim.h(519,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(212,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(214,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(738,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2057,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2321,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2322,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2331,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2332,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2333,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2334,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2335,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2348,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2388,26): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2395,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2397,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2411,103): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2435,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2459,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2461,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2474,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2475,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2476,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2498,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2499,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2524,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2564,23): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2571,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2573,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2587,91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2611,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2635,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2637,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2650,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2651,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2652,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2674,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2675,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2700,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2740,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2747,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2749,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2763,115): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2787,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2811,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2813,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2826,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2827,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2828,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2850,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2851,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2876,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2916,24): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2923,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2925,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2939,95): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2963,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2987,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(2989,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3002,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3003,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3004,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3026,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3027,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3065,16): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3073,16): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3114,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3119,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3146,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3150,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3153,30): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3158,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3159,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3160,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3161,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3162,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3163,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3164,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3165,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3166,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3167,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3168,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3169,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3170,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3171,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3172,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3173,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3175,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3180,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3181,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3193,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3196,25): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3207,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3210,25): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3221,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3237,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3270,28): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3341,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3343,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3365,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3377,25): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3452,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3453,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3461,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3469,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3517,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3519,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3530,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3543,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3544,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3557,26): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3567,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3579,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3580,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3581,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3582,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3583,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3587,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3588,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3589,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3590,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3591,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3669,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3670,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3674,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3675,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3677,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\ProyectoFinal\MainPrueba.cpp(3678,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+soil2-debug.lib(SOIL2.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  1 of 707 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(etc1_utils.obj)' or at 'C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\Release\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_DXT.obj)' or at 'C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\Release\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(image_helper.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_helper.obj)' or at 'C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\Release\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(SOIL2.obj)' or at 'C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\Release\soil2-debug.pdb'; linking object as if no debug info
+  ProyectoFinal.vcxproj -> C:\Users\beekam\Desktop\ProyectoCGPeach-Castle\Release\ProyectoFinal.exe

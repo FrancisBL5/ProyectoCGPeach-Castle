@@ -1,0 +1,101 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(500,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  MainPrueba.cpp
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\modelAnim.h(104,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\modelAnim.h(519,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(628,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2070,29): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2071,31): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2080,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2081,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2082,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2083,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2084,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2097,30): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2137,26): warning C4305: '=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2144,30): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2146,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2160,103): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2168,25): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2169,25): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2170,25): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2184,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2200,24): warning C4305: '-=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2201,24): warning C4305: '-=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2202,24): warning C4305: '-=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2208,30): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2210,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2223,30): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2224,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2225,30): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2247,30): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2248,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2285,17): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2293,17): warning C4305: '-=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2301,18): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2309,18): warning C4305: '-=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2334,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2339,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2366,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2370,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2373,31): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2378,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2379,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2380,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2381,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2382,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2383,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2384,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2385,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2386,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2387,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2388,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2389,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2390,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2391,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2392,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2393,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2395,29): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2400,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2401,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2412,20): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2413,25): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2416,26): warning C4305: '-=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2426,20): warning C4305: '-=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2427,25): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2430,26): warning C4305: '-=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2440,20): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2441,25): warning C4305: '-=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2457,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2458,19): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2461,26): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2472,27): warning C4305: '-=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2476,29): warning C4305: '-=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2496,21): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2508,21): warning C4305: '-=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2528,18): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2540,21): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2542,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2545,18): warning C4305: '-=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2583,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2584,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2587,17): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2592,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2596,17): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2615,17): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2635,35): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2637,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2644,26): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2651,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2723,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2724,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2728,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2729,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2731,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Proyectos\Computacion Grafica Aldair\Version2\ProyectoFinal\MainPrueba.cpp(2732,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  LINK : ..\Release\ProyectoFinal.exe not found or not built by the last incremental link; performing full link
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+soil2-debug.lib(etc1_utils.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(etc1_utils.obj)' or at 'F:\Proyectos\Computacion Grafica Aldair\Version2\Release\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_DXT.obj)' or at 'F:\Proyectos\Computacion Grafica Aldair\Version2\Release\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(image_helper.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_helper.obj)' or at 'F:\Proyectos\Computacion Grafica Aldair\Version2\Release\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(SOIL2.obj)' or at 'F:\Proyectos\Computacion Grafica Aldair\Version2\Release\soil2-debug.pdb'; linking object as if no debug info
+  ProyectoFinal.vcxproj -> F:\Proyectos\Computacion Grafica Aldair\Version2\Release\ProyectoFinal.exe
