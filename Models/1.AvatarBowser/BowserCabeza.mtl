@@ -1,0 +1,63 @@
+newmtl BowserCabeza:polygon0SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd KoopaBodyOther.png
+Ni 1.00
+newmtl BowserCabeza:polygon3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd KoopaBody.png
+Ni 1.00
+newmtl BowserCabeza:polygon6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd KoopaEyeLid.0.png
+Ni 1.00
+newmtl BowserCabeza:polygon8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd KoopaHair.png
+Ni 1.00
+newmtl BowserCabeza1:polygon0SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd KoopaBodyOther.png
+Ni 1.00
+newmtl BowserCabeza1:polygon3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd KoopaBody.png
+Ni 1.00
+newmtl BowserCabeza1:polygon6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd KoopaEyeLid.0.png
+Ni 1.00
+newmtl BowserCabeza1:polygon8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd KoopaHair.png
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd KoopaBody.png
+Ni 1.00

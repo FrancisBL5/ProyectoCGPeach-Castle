@@ -1,0 +1,61 @@
+newmtl koopa_clown:k_clown_1500_all_m_mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd k_clown_1500_all.0.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 225.00
+newmtl koopa_clown:k_clown_1500_eye_m_mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd k_clown_1500_eye.0.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 225.00
+newmtl polygon0SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd KoopaBodyOther.png
+Ni 1.00
+newmtl polygon3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd KoopaBody.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl polygon6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd KoopaEyeLid.0.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl polygon8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd KoopaHair.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl polygon11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd KoopaBodyOther.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00

@@ -1,0 +1,21 @@
+newmtl BowserManoIzquierda1:polygon0SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd KoopaBodyOther.png
+Ni 1.00
+newmtl BowserManoIzquierda1:polygon3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd KoopaBody.png
+Ni 1.00
+newmtl BowserManoIzquierda1:polygon11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd KoopaBodyOther.png
+Ni 1.00
