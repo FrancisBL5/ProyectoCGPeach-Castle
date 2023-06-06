@@ -1,0 +1,35 @@
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd packun_skin_2.png
+Ni 1.00
+newmtl piranha_plant_cabeza_inf:lambert1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd packun_lip.png
+Ni 1.00
+newmtl piranha_plant_cabeza_inf:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd packun_lip.png
+Ni 1.00
+newmtl piranha_plant_cabeza_inf:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd packun_tongue_1.png
+Ni 1.00
+newmtl piranha_plant_cabeza_inf:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd packun_mouth.png
+Ni 1.00
