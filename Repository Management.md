@@ -31,3 +31,11 @@ Once the repository composition has been reviewed, now we will explain how versi
   - Simple animations
   - Complex animations
   - Files: All the code contained in [Version 2](/Version2)
+- **Version 3**
+  - Night ambiance setup::
+    - Night SkyBox
+    - Point Lights illumination
+    - Light baking for the lamp posts
+- **Version 4**
+  - Switching between day and night SkyBox
+  - Lights on and off
