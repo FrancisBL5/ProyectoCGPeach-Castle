@@ -33,3 +33,11 @@ de hacer cambios significativos en cuanto a la versión anterior. En general, ca
   - Animaciones simples
   - Animaciones complejas
   - Archivos: Todos los códigos contenidos en [Version 2](/Version2)
+- **Versión 3**
+  - Ambientación de la noche:
+    - SkyBox noche
+    - Iluminación de Point Lights
+    - Cocinado de luces para los postes
+- **Versión 4**
+  - Cambio de SkyBox día / noche
+  - Apagado y encendido de luces
