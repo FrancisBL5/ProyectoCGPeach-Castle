@@ -1,0 +1,36 @@
+newmtl Poste:m0CastSS26_t
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd CastleBlock00bMip.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 92.16
+newmtl Poste:m3CastSS23_t
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd CastleBlock_Kiwa.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 92.16
+newmtl Poste:m17CastMS10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Castlepillar.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 92.16
+newmtl Poste:m23CastSS05
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd CastleMado.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 92.16
