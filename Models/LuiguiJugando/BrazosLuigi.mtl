@@ -1,0 +1,31 @@
+newmtl Switch1:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ob0006_00_obja_col.png
+Ni 1.00
+newmtl Switch1:phong1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ob0006_00_objB_col.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks chara_d_white.png
+Ns 18.00
+newmtl lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd luigi_alb.png
+Ni 1.00
+newmtl lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd luigieye_alb.5.png
+Ni 1.00

@@ -1,0 +1,45 @@
+newmtl nokonoko:mssbMtl_66
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd nokonoko_1.png
+Ni 1.45
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl nokonoko:mssbMtl_68
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd nokonoko_7.png
+Ni 1.45
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl nokonoko:mssbMtl_70
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd nokonoko_12.png
+Ni 1.45
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl nokonoko:mssbMtl_72
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd nokonoko_8.png
+Ni 1.45
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl nokonoko:mssbMtl_74
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd nokonoko_3.png
+Ni 1.45
+Ks 0.00 0.00 0.00
+Ns 0.00

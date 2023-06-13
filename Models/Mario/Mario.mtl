@@ -1,0 +1,14 @@
+newmtl Mario1:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tanukimario_alb.png
+Ni 1.00
+newmtl Mario1:lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tanukimarioeye_alb.5.png
+Ni 1.00

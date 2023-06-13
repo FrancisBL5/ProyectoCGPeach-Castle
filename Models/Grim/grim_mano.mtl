@@ -1,0 +1,18 @@
+newmtl grim_mano1:Cl_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd GrimBody.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl grim_mano1:Material_001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd gr_plata.png
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 250.00
