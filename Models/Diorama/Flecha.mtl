@@ -1,0 +1,122 @@
+newmtl lambert12SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd ng_saku1.png
+Ni 1.00
+newmtl polygon7SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd ga_suna.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl polygon11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd ga_grass6_.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl polygon18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd ng_wall02.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl polygon21SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd ng_renga.png
+Ni 1.00
+newmtl polygon30SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd ga_isiyuka.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl polygon37SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd ng_saku1.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl polygon51SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd ng_ami_w.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl polygon52SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd ng_mariokart.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl polygon55SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd ga_isihasi.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl polygon72SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd ng_heri.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl polygon116SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd ga_grass3.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl polygon120SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd ga_grass6.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
+newmtl polygon191SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd dst_lake_futi.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 18.00
