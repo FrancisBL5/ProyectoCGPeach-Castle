@@ -1,0 +1,42 @@
+newmtl BowserBrazoDerecho:polygon0SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd KoopaBodyOther.png
+Ni 1.00
+newmtl BowserBrazoDerecho:polygon3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd KoopaBody.png
+Ni 1.00
+newmtl BowserBrazoDerecho:polygon11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd KoopaBodyOther.png
+Ni 1.00
+newmtl BowserBrazoIzquierdo:polygon0SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd KoopaBodyOther.png
+Ni 1.00
+newmtl BowserBrazoIzquierdo:polygon3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd KoopaBody.png
+Ni 1.00
+newmtl BowserBrazoIzquierdo:polygon11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd KoopaBodyOther.png
+Ni 1.00
