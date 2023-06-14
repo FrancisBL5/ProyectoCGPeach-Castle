@@ -5,6 +5,12 @@ In this document, the organization of the current repository is shown, and how y
 ### Models
 Folder that contains all the [models](/Models) used in the Project. The folders are organized according to the code declaration of each used model. To run the code, you must have this entire folder within the folder where the executable is located.
 
+# Executable
+Folder that contains the executable within a 'ZIP' file. It also contains the necessary libraries to run the project.
+
+# Versions
+Folders starting with version # contain code files, shaders, and more, indicating the project's version control.
+
 ## Version Control
 Once the repository composition has been reviewed, now we will explain how version control was managed within it. In general, each version aimed to make significant changes compared to the previous version. In general, each version introduces the following changes:
 - **Version 1**
@@ -39,3 +45,16 @@ Once the repository composition has been reviewed, now we will explain how versi
 - **Version 4**
   - Switching between day and night SkyBox
   - Lights on and off
+- **Version 5**
+  - Point Lights correction in isometric camera
+- **Version 6**
+  - Implementation of audio:
+  - Changing background music for day/night
+  - Avatar roar
+  - Skybox correction in isometric camera
+  - Implementation of primitives
+- **Version 7**
+  - Binding of the 3D camera to the avatar
+  - Spot Lights correction in isometric camera
+  - Initialization correction of the isometric camera
+  - [Executable](/Ejecutable)
